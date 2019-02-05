@@ -6,7 +6,7 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2019-02-05T16:10:28Z</updated>
+  <updated>2019-02-05T16:36:02Z</updated>
   <author>
     <name>Shu Ming Peh</name>
     <email>shuming.peh@gmail.com</email>
@@ -559,10 +559,10 @@ But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Footnote number one yeah baby!&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+      <p>Footnote number one yeah baby! <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p>A footnote you can link to - <a href="#">click here!</a>&nbsp;<a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+      <p>A footnote you can link to - <a href="#">click here!</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
